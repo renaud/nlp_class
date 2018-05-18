@@ -1,0 +1,2 @@
+MY_NAME='master'
+ES_SERVER='104.210.58.178'
